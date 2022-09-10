@@ -1,6 +1,6 @@
 import Layout from "../components/layout";
 import utilStyles from "../styles/utils.module.css";
-import { getPostData } from "../lib/portfolio";
+import { getPostData } from "../lib/appInfo.js";
 // import Link from "next/link";
 import Date from "../components/date";
 import Head from "next/head";

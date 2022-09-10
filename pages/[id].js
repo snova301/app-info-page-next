@@ -1,4 +1,4 @@
-import { getAllPostIds, getPostData } from "../lib/portfolio";
+import { getAllPostIds, getPostData } from "../lib/appInfo";
 import Layout from "../components/layout";
 import Head from "next/head";
 import Date from "../components/date";
@@ -25,7 +25,7 @@ export default function Post({ postData }) {
   return (
     <Layout>
       <Head>
-        <title>{postData.title} - Esunowba Portfolio Page</title>
+        <title>{postData.title} - Esunowba App Info Page</title>
       </Head>
 
       <article>
