@@ -49,13 +49,9 @@ date: "2022-07-01"
 今後の開発のため、支援いただけると嬉しいです。
 よろしくお願いします！
 
-<a href='https://www.buymeacoffee.com/snova301'><img alt='Buy me a coffee' src='./bmc-button.png' width='150'/></a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="snova301" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 製作者については[こちら](https://snova301.github.io/Portfolio/)。
-
-# 最終更新日
-
-2022/9/18
 
 <font size="2">Google Play および Google Play ロゴは、Google LLC の商標です。</font>
 

@@ -3,6 +3,7 @@ import Layout from "../components/layout";
 import Head from "next/head";
 import Date from "../components/date";
 import utilStyles from "../styles/utils.module.css";
+import styles from "../components/layout.module.css";
 
 export async function getStaticPaths() {
   const paths = getAllPostIds();
@@ -28,14 +29,16 @@ export default function Post({ postData }) {
         <title>{postData.title} - Esunowba App Info Page</title>
       </Head>
 
+      <header className={styles.header}>
+        <p>{postData.title}</p>
+      </header>
+
       <article>
-        {/* <h1 className={utilStyles.headingXl}>{postData.title}</h1> */}
+        {/* <div className={utilStyles.title}>{postData.title}</div> */}
         <div className={utilStyles.lightText}>
-          Last Modified :&nbsp;
+          最終更新日 :&nbsp;
           <Date dateString={postData.date} />
         </div>
-        <div className={utilStyles.title}>{postData.title}</div>
-
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
       </article>
     </Layout>

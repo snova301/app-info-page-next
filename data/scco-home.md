@@ -1,11 +1,10 @@
 ---
-title: "Terms"
-date: "2022-07-01"
+title: "採点計算アプリSCCO"
+date: "2022-06-14"
 ---
 
-# 採点計算 SCCO アプリ
 
-## アプリ概要
+# 概要
 
 試験の解答合わせを行ったあと、点数の計算するためのツールです。
 学校の先生だけではなく、生徒自身が自己採点したいときや、資格試験の過去問を解いて点数を計算したい社会人の方にもご利用いただけます。
@@ -20,44 +19,44 @@ date: "2022-07-01"
 
 本アプリの利用には[利用規約](terms)と[プライバシーポリシー](privacypolicy)に同意したものとします。
 
-## 使い方
+# 使い方
 
-### テストの一覧
+## テストの一覧
 
 「テストリスト」をタップすると登録しているテストの一覧を見ることが出来ます。
 
-<img src='Screenshot_1655101491.png' width='150'>
+<img src='images/scco/Screenshot_1655101491.png' width='150' style="display: block; margin: auto;">
 
-### テストの登録
+## テストの登録
 
 「テストリスト」の右下の追加ボタンをタップすると、テストの名前を設定できます。
 テスト名称は現在変更できません。
 
-<img src='Screenshot_1655101859.png' width='150'>
+<img src='images/scco/Screenshot_1655101859.png' width='150' style="display: block; margin: auto;">
 
 次に、メンバーの設定をします。
 メンバーの名前は現在変更できません。
 
-<img src='Screenshot_1655101467.png' width='150'>
+<img src='images/scco/Screenshot_1655101467.png' width='150' style="display: block; margin: auto;">
 
 最後に設問の設定をします。
 設問の名前は現在変更できません。
 
-<img src='Screenshot_1655101488.png' width='150'>
+<img src='images/scco/Screenshot_1655101488.png' width='150' style="display: block; margin: auto;">
 
-### 採点登録
+## 採点登録
 
 「テストリスト」から点数を計算したいテストをタップし、メンバーを選択します。
 
-<img src='Screenshot_1655102154.png' width='150'>
+<img src='images/scco/Screenshot_1655102154.png' width='150' style="display: block; margin: auto;">
 
 採点結果を入力します。
 
-<img src='Screenshot_1655101499.png' width='150'>
+<img src='images/scco/Screenshot_1655101499.png' width='150' style="display: block; margin: auto;">
 
 ※画面イメージは変更される可能性があります。
 
-## アプリの権限について
+# アプリの権限について
 
 本アプリの権限は以下の目的のために使用されます。
 
@@ -65,12 +64,12 @@ date: "2022-07-01"
 - 広告表示のため
 - アクセス解析のため
 
-## 不具合や改善要望について
+# 不具合や改善要望について
 
 不具合報告、改善要望、ご質問等は[お問い合わせフォーム](https://forms.gle/6G7RaQP7uG7ufKSP8)からお問い合わせください。
 また、アプリの評価ページでの報告も可能です。
 
-## 今後の開発について
+# 今後の開発について
 
 以下に予定されているサービス以外で追加してほしい機能があれば、[お問い合わせフォーム](https://forms.gle/6G7RaQP7uG7ufKSP8)よりお願いします。
 
@@ -82,12 +81,10 @@ date: "2022-07-01"
 - クラウド連携機能
 - 部分点の計算機能
 
-## 最終更新日
 
-2022/6/14
 
-## アプリの更新履歴
+# アプリの更新履歴
 
-### v1.0.0
+## v1.0.0
 
 - リリース版
