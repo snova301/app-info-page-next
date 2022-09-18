@@ -3,27 +3,48 @@ title: "Esunowbaアプリ情報ページ"
 date: "2022-07-01"
 ---
 
-# 🐤Esunowba アプリ情報ページへようこそ！
+🐤Esunowba アプリ情報ページへようこそ！
 
 このサイトは`Esunowba`のモバイルアプリに関する[利用規約](terms)、[プライバシーポリシー](privacypolicy)、マニュアルを記載しています。
 
-## 目次
+# アプリ一覧
 
-| アプリ名| Android| iOS| web|
-| :-- | :-- | :-- | :-- |
-| [電気設備計算アシスタント](elec-calc-home) | <a href='https://play.google.com/store/apps/details?id=com.github.snova301.elec_calculator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='https://play.google.com/intl/ja/badges/static/images/badges/ja_badge_web_generic.png' width='150'/></a> | <a href="https://apps.apple.com/jp/app/%E9%9B%BB%E6%B0%97%E8%A8%AD%E5%82%99%E8%A8%88%E7%AE%97%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88/id1632908753?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 100px; height: 50px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ja-jp?size=250x83&amp;releaseDate=1657065600&h=8df1e69241ab5b9cbf835baa41966a55" alt="Download on the App Store" style="border-radius: 13px; width: 100px; height: 50px;"></a> | [Web(テスト版)](https://ewacdj-3936b.web.app/) |
-| [採点計算アプリ SCCO](scco-home)        | <a href='https://play.google.com/store/apps/details?id=com.github.snova301.score_counter&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='https://play.google.com/intl/ja/badges/static/images/badges/ja_badge_web_generic.png' width=150/></a>     | 製作中| [web(テスト版)](https://scco-2df5d.web.app/#/) |
+## 電気設備計算アシスタント
 
+[電気設備計算アシスタントの詳細ページ](elec-calc-home)
 
-[消防設備アプリ](firefight-equip-home)
+[Google Play](https://play.google.com/store/apps/details?id=com.github.snova301.elec_calculator)
+
+[App Store](https://apps.apple.com/jp/app/%E9%9B%BB%E6%B0%97%E8%A8%AD%E5%82%99%E8%A8%88%E7%AE%97%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88/id1632908753?itsct=apps_box_badge&amp;itscg=30200)
+
+[Web(テスト版)](https://ewacdj-3936b.web.app/)
+
+## 消防設備計算アシスタント
+
+[消防設備アプリの詳細ページ](firefight-equip-home)
+
+[Google Play](https://play.google.com/store/apps/details?id=com.github.snova301.firefight_equip)
+
+[App Store](https://apps.apple.com/jp/app/%E6%B6%88%E9%98%B2%E8%A8%AD%E5%82%99%E8%A8%88%E7%AE%97%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88/id1641889672)
+
+[web(テスト版)](https://firefight-equip-app.web.app/)
+
+## 採点アプリSCCO
+
+[採点計算アプリ SCCOの詳細ページ](scco-home)
+
+[Google Play](https://play.google.com/store/apps/details?id=com.github.snova301.score_counter)
+
+[web(テスト版)](https://scco-2df5d.web.app/)
+
 
 ---
 
-## お問い合わせ
+# お問い合わせ
 
 `Esunowba`のサービスについてのお問い合わせは[お問い合わせフォーム](https://forms.gle/6G7RaQP7uG7ufKSP8)よりお願いします。
 
-## Buy me a coffee
+# Buy me a coffee
 
 今後の開発のため、支援いただけると嬉しいです。
 よろしくお願いします！
@@ -32,9 +53,9 @@ date: "2022-07-01"
 
 製作者については[こちら](https://snova301.github.io/Portfolio/)。
 
-## 最終更新日
+# 最終更新日
 
-2022/7/30
+2022/9/18
 
 <font size="2">Google Play および Google Play ロゴは、Google LLC の商標です。</font>
 
