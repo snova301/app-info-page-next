@@ -1,9 +1,9 @@
 ---
-title: "Terms"
+title: "Esunowbaアプリ情報ページ"
 date: "2022-07-01"
 ---
 
-# 🐤Esunowba アプリ情報ページようこそ！
+# 🐤Esunowba アプリ情報ページへようこそ！
 
 このサイトは`Esunowba`のモバイルアプリに関する[利用規約](terms)、[プライバシーポリシー](privacypolicy)、マニュアルを記載しています。
 
@@ -13,6 +13,9 @@ date: "2022-07-01"
 | :-- | :-- | :-- | :-- |
 | [電気設備計算アシスタント](elec-calc-home) | <a href='https://play.google.com/store/apps/details?id=com.github.snova301.elec_calculator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='https://play.google.com/intl/ja/badges/static/images/badges/ja_badge_web_generic.png' width='150'/></a> | <a href="https://apps.apple.com/jp/app/%E9%9B%BB%E6%B0%97%E8%A8%AD%E5%82%99%E8%A8%88%E7%AE%97%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88/id1632908753?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 100px; height: 50px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ja-jp?size=250x83&amp;releaseDate=1657065600&h=8df1e69241ab5b9cbf835baa41966a55" alt="Download on the App Store" style="border-radius: 13px; width: 100px; height: 50px;"></a> | [Web(テスト版)](https://ewacdj-3936b.web.app/) |
 | [採点計算アプリ SCCO](scco-home)        | <a href='https://play.google.com/store/apps/details?id=com.github.snova301.score_counter&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='https://play.google.com/intl/ja/badges/static/images/badges/ja_badge_web_generic.png' width=150/></a>     | 製作中| [web(テスト版)](https://scco-2df5d.web.app/#/) |
+
+
+[消防設備アプリ](firefight-equip-home)
 
 ---
 

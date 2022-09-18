@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "プライバシーポリシー"
 date: "2022-07-01"
 ---
 
